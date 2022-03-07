@@ -1,2 +1,2 @@
 # .NET-App
-Implementação básico dos conceitos de OO em .NET
+Implementação básica dos conceitos de OO em .NET
